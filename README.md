@@ -15,5 +15,9 @@ Ethiopia is rapidly digitizing financial services: Telebirr has over 54M users (
 
 
 ### Notebooks
-* **`schema_exploration.ipynb`** — Explore dataset schema, pillars, record types, confidence, and sources  
-* **`data_enrichment.ipynb`** — Add new observations, events, impact links; save enriched datasets and document changes
+* **`schema_exploration.ipynb`** — Explored dataset schema, pillars, record types, confidence, and sources  
+* **`data_enrichment.ipynb`** — Addd new observations, events, impact links; save enriched datasets and document changes
+* **`eda.ipynb`** — Performd exploratory data analysis, visualized trends, correlations, and events, and documentd key insights and data gaps
+
+### Source Code (src/)
+* **`eda.py`** — EDA class for loading, preprocessing, summarizing, and filtering data; provides helper methods for Task 2 analyses
