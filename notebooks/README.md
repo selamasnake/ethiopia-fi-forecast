@@ -9,3 +9,4 @@ This folder contains Jupyter notebooks for analyzing and enriching Ethiopia fina
 * **`eda.ipynb`** - Performs exploratory data analysis on access, usage, infrastructure, events, and correlations, and documents key insights, data gaps, and hypotheses.
 * **`event_impact_modeling.ipynb`** -
 Models how events (policies, product launches, infrastructure investments) affect financial inclusion indicators.
+* **`forecasting_and_scenarios.ipynb` — Generates indicator forecasts under multiple scenarios using trend and event-augmented models.

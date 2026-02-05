@@ -7,3 +7,4 @@ pytest
 tqdm
 python-dotenv
 datetime
+scikit-learn
