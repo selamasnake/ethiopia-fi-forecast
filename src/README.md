@@ -9,3 +9,4 @@ This folder contains Python modules used for preprocessing and EDA.
     - Mapping qualitative impact magnitudes to numeric weights
     - Computing lagged ramped effects of events
     - Reusable class-based interface for modeling and forecasting event impacts
+* `forecasting.py` — Implements trend fitting, event-augmented forecasting, and scenario-based projections for financial inclusion indicators.
