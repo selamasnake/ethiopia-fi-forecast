@@ -8,3 +8,6 @@ tqdm
 python-dotenv
 datetime
 scikit-learn
+streamlit
+openpyxl
+plotly
